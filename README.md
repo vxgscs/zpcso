@@ -1,6 +1,6 @@
-|| Zombie Plague 4.3 CSO (2024) ||
+> Zombie Plague 4.3 CSO (2024)
 
-|| What's New ??
+> What's New ??
 
 - New Extra Items CSO
 - New Zombie Classes CSO
@@ -16,9 +16,9 @@
 And More...
 
 
-|| Link Has Not Released Right Now 
+> Link Has Not Released Right Now 
 
-|| Mod Always Will Be Only Amxx...
+> Mod Always Will Be Only Amxx...
 
 If You Want To Buy Sma Contact Me In Discord
 
