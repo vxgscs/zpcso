@@ -21,15 +21,11 @@
 
 - CS BOTS
 - YaPB
-- PodBot
+- PodBot ( Bug In Xash3D: Disconnect After Bot Killed You )
 
-( Bug In Xash3D: Disconnect After Bot Killed You )
+- SyPB (Not Work In Termux Box Got Crashed Server)
 
-- SyPB ( Not Work In Termux Box Got Crashed Server )
-
-- EBots
-
-( Work In Termux Box With Old Version I Guess... )
+- EBots ( Work In Termux Box With Old Version I Guess... )
 
 
 > Link Has Not Released Right Now 
