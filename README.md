@@ -1,4 +1,4 @@
->> Zombie Plague 4.3 CSO (2024) >>
+> Zombie Plague 4.3 CSO (2024)
 
 > What's New ??
 
@@ -13,7 +13,17 @@
 - Nemesis & Survivor's Health Shower
 - DMG & HP Shower
 
-And More...
+...And More...
+
+- Mod Is Working in Termux Box & Windows
+
+> Bots Are Work In Windows
+
+- CS BOTS
+- YaPB
+- PodBot ( Bug In Xash3D: Disconnect After Bot Killed You )
+- SyPB ( Not Work In Termux Box )
+- EBots ( Work In Termux Box With Old Version I Guess... )
 
 
 > Link Has Not Released Right Now 
