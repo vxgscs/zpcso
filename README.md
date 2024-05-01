@@ -19,7 +19,7 @@
 
 > Bots Are Work In Windows
 
-- CS BOTS
+- Normal Bots
 - YaPB
 - PodBot ( Bug In Xash3D: Disconnect After Bot Killed You )
 
