@@ -5,7 +5,8 @@
 - New Extra Items CSO
 - New Zombie Classes CSO
 - Player Menu / Ammo Pack Menu / Manager Menu Has Added
-- New Knife Menu Special !!
+- VIP Menu / Boss Menu !!
+- Knife Menu CSO
 - Hook & Grab
 - New Skin Player / Admin CSO !!
 - Damage 3D
@@ -38,4 +39,4 @@ If You Want To Buy Sma Contact Me In Discord
 
 Or In Discord Server
 
-Discord Server : https://discord.com/invite/sf9MrYjgBr
+- Discord Server : https://discord.com/invite/sf9MrYjgBr
